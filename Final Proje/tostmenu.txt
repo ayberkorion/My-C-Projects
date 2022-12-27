@@ -1,0 +1,7 @@
+*****Menu*****
+Tost Cesitleri     
+1-Sucuklu Tost..20 TL.....0
+2-Kasarli Tost..20 TL.....1
+3-Karisik Tost..25 TL.....2
+4-Sebzeli Tost..25 TL.....3
+Urun kodlarini girerek siparis verebilirsiniz.

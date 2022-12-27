@@ -1,0 +1,6 @@
+Icecek Cesitleri    
+1-Kutu Kola..15 TL.....0
+2-Ayran..10 TL.....1
+3-Su..5 TL.....2
+4-Icecek istemiyorsaniz 3'u tuslayiniz.
+Urun kodlarini girerek siparis verebilirsiniz.
